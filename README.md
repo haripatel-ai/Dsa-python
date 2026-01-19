@@ -23,9 +23,35 @@ This repo reflects my **daily learning progress** and helps me build strong prob
 ---
 
 ## 📂 Folder Structure
-DSA-Python/ │ ├── arrays/ │   ├── array_basics.py │   ├── max_min.py │   ├── reverse_array.py │   ├── even_odd_count.py │ ├── strings/ │   └── (coming soon) │ ├── searching/ │   └── (coming soon) │ ├── sorting/ │   └── (coming soon) │ ├── linked_list/ │   └── (coming soon) │ ├── stack/ │   └── (coming soon) │ ├── queue/ │   └── (coming soon) │ └── README.md
-
----
+```
+DSA-Python/
+│
+├── arrays/
+│   ├── array_basics.py
+│   ├── max_min.py
+│   ├── reverse_array.py
+│   └── even_odd_count.py
+│
+├── strings/
+│   └── (coming soon)
+│
+├── searching/
+│   └── (coming soon)
+│
+├── sorting/
+│   └── (coming soon)
+│
+├── linked_list/
+│   └── (coming soon)
+│
+├── stack/
+│   └── (coming soon)
+│
+├── queue/
+│   └── (coming soon)
+│
+└── README.md
+```
 
 ## 🗓️ Daily Progress
 
